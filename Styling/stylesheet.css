@@ -1,0 +1,22 @@
+.mycloud {
+    color: turquoise;
+    background-color: black;
+    font-weight: bold;
+}
+
+.mycloud .white {
+    color: white;
+}
+
+.projects {
+    text-align: center;
+    color: white;
+    background-color: purple;
+}
+
+.contact {
+    text-align: right;
+    background-color: lightskyblue;
+    color: darkslategrey;
+    text-decoration: underline;
+}
